@@ -3,6 +3,10 @@ Project to detect lane lines in images using Python and OpenCV
 
 The following project's goal is to identify lane lines in an image by using basic and classical pre-processing to later apply Hugh transformation to identify the lanes. 
 
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
+
+![Screenshot](test_images_output/outputsolidWhiteCurve.jpg)
 
 # Pipeline Description
 1. Grayscale: This is the first step to initiate the image processing
